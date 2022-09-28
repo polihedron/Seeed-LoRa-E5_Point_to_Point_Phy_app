@@ -5,5 +5,7 @@ It's built from danak6jq repo https://github.com/danak6jq/Seeed-LoRa-E5, convert
 then merge with MOOC - STM32WL workshop: https://www.youtube.com/watch?v=n7OoTStkczs
 
 To add mode sensors change node address in SubGHz_Phy\App\subghz_phy_app.h
-#define NODE_ID                                     (uint8_t)(0x03)  /* Node address */
+
+#define NODE_ID  (uint8_t)(0x03)  /* Node address */
+
 Base station ID is 0x01.
