@@ -7,7 +7,7 @@ as a base with v1.2.0 STM32WL SDK, but converted from LoRaWAN to SubGHz_Phy appl
 
 https://www.youtube.com/watch?v=n7OoTStkczs
 
-Base station module can log data via usb port from sensors, or with use of TFT ST7735 SPI display as a console (which is more convenient for outdoors tests)
+Base station module can log data via usb port from sensors, or with use of TFT ST7735 SPI display as a console (which is more convenient for outdoor tests)
 
 Sensor module can log data via usb, has i2c AHT20 temperature and humidity sensor, 
 Button_1 can trigger transmission (which can be useful for detector or alarm node app), 
