@@ -2,9 +2,7 @@ LoRa-E5 base station and sensor, point to point LoRa range test device (no LoRa 
 
 https://github.com/danak6jq/Seeed-LoRa-E5 
 
-as a base with v1.2.0 STM32WL SDK, but converted from LoRaWAN to SubGHz_Phy application, and then finally made with help of MOOC - STM32WL workshop: 
-
-https://www.youtube.com/watch?v=n7OoTStkczs
+as a base with v1.2.0 STM32WL SDK, but converted from LoRaWAN to SubGHz_Phy application, and then finally made with help of MOOC STM32WL workshop.
 
 Base station module can log data via usb port from sensors, or with use of TFT ST7735 SPI display as a console (which is more convenient for outdoor tests)
 
