@@ -17,18 +17,17 @@ display data:
 
 Sensor current consumption:
 
-(APP_LOG_ENABLED 0, DEBUGGER_ENABLED 0, LOW_POWER_DISABLE 0, USART2 Disabled, LED2 disabled, direct 3V supply, LDO Regulator AP2112K-3.3 removed from LoRa E5-mini PCB due to rev current flow)
-
 ![Screenshot_9](https://user-images.githubusercontent.com/46649005/192966786-285ea0a3-6f0c-483a-a8d2-4cadc4c99604.png)
 
-closeup:
+closeup to stop2:
 
 ![Screenshot_10](https://user-images.githubusercontent.com/46649005/192967053-eacbb87f-e6df-4030-bb25-c8319c3dddaf.png)
+(APP_LOG_ENABLED 0, DEBUGGER_ENABLED 0, LOW_POWER_DISABLE 0, USART2 Disabled, LED2 disabled, direct 3V supply, LDO Regulator AP2112K-3.3 removed from LoRa E5-mini PCB due to rev current flow)
 
 Base Station current consumption:
 
-(APP_LOG_ENABLED 0, DEBUGGER_ENABLED 0, LOW_POWER_DISABLE 0, USART2 Disabled, LED2 disabled)
 ![Screenshot_12](https://user-images.githubusercontent.com/46649005/192966941-e5614fc2-ad29-4300-880d-d4798d71453d.png)
+(APP_LOG_ENABLED 0, DEBUGGER_ENABLED 0, LOW_POWER_DISABLE 0, USART2 Disabled, LED2 disabled)
 
 Terminal log:
  
