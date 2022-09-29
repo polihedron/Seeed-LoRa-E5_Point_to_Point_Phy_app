@@ -20,7 +20,7 @@ display data:
 
 Sensor current consumption:
 
-(APP_LOG_ENABLED 0, DEBUGGER_ENABLED 0, LOW_POWER_DISABLE 0, USART2 Disabled, LED2 disabled, direct 3V supply and LDO Regulator AP2112K-3.3 removed from L5-mini pcb due to rev current draw)
+(APP_LOG_ENABLED 0, DEBUGGER_ENABLED 0, LOW_POWER_DISABLE 0, USART2 Disabled, LED2 disabled, direct 3V supply and LDO Regulator AP2112K-3.3 removed from LoRa E5-mini PCB due to rev current flow)
 
 ![Screenshot_9](https://user-images.githubusercontent.com/46649005/192966786-285ea0a3-6f0c-483a-a8d2-4cadc4c99604.png)
 
