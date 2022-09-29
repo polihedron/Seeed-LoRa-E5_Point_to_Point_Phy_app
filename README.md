@@ -1,5 +1,4 @@
-# Seeed-LoRa-E5_peer2peer
-LoRa-E5 base station and sensor, peer to peer LoRa range test device. This is a basic device made to test LoRa network. It's built from danak6jq repo: 
+LoRa-E5 base station and sensor, point to point LoRa range test device (no LoRa gateway needed). This is a basic device made to test LoRa network. It's built from danak6jq repo: 
 
 https://github.com/danak6jq/Seeed-LoRa-E5 
 
