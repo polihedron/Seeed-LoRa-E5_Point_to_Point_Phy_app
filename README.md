@@ -33,7 +33,7 @@ Base Station power draw:
 (APP_LOG_ENABLED 0, DEBUGGER_ENABLED 0, LOW_POWER_DISABLE 0, USART2 Disabled, LED2 disabled)
 ![Screenshot_12](https://user-images.githubusercontent.com/46649005/192966941-e5614fc2-ad29-4300-880d-d4798d71453d.png)
 
-USB log:
+Terminal log:
  
-Basestation and 2 Sensors:
+Basestation and 2 Sensors
 ![Screenshot_8](https://user-images.githubusercontent.com/46649005/192967296-6b95688e-424c-404a-a46e-33ef134406a5.png)
