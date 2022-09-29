@@ -18,7 +18,7 @@ To edit sensor or base station app look for SubGHz_Phy\App\subghz_phy_app.c
 display data:
 ![IMG_20220929_091909](https://user-images.githubusercontent.com/46649005/192967852-4209c3cf-94d4-47f6-be64-edd16ad0c059.jpg)
 
-Sensor power draw:
+Sensor current consumption:
 
 (APP_LOG_ENABLED 0, DEBUGGER_ENABLED 0, LOW_POWER_DISABLE 0, USART2 Disabled, LED2 disabled, direct 3V supply and LDO Regulator AP2112K-3.3 removed from L5-mini pcb due to rev current draw)
 
@@ -28,7 +28,7 @@ closeup:
 
 ![Screenshot_10](https://user-images.githubusercontent.com/46649005/192967053-eacbb87f-e6df-4030-bb25-c8319c3dddaf.png)
 
-Base Station power draw:
+Base Station current consumption:
 
 (APP_LOG_ENABLED 0, DEBUGGER_ENABLED 0, LOW_POWER_DISABLE 0, USART2 Disabled, LED2 disabled)
 ![Screenshot_12](https://user-images.githubusercontent.com/46649005/192966941-e5614fc2-ad29-4300-880d-d4798d71453d.png)
